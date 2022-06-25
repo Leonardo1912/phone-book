@@ -1,0 +1,22 @@
+.ContactInfo{
+  .name{
+    button{
+      display: none;
+    }
+  }
+  .name:hover{
+    button{
+      display: inline;
+    }
+  }
+  .phone{
+    button{
+      display: none;
+    }
+  }
+  .phone:hover{
+    button{
+      display: inline;
+    }
+  }
+}
